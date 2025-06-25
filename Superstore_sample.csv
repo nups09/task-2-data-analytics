@@ -1,0 +1,101 @@
+Order Date,Region,Category,Sub-Category,Sales,Profit,Discount,Customer Name
+2023-01-01,West,Office Supplies,Paper,652,271,0.4,Customer 1
+2023-01-02,West,Office Supplies,Chairs,350,156,0.1,Customer 2
+2023-01-03,East,Technology,Binders,384,284,0.3,Customer 3
+2023-01-04,West,Technology,Tables,127,117,0.3,Customer 4
+2023-01-05,East,Furniture,Paper,774,209,0.4,Customer 5
+2023-01-06,Central,Office Supplies,Chairs,219,283,0.2,Customer 6
+2023-01-07,Central,Office Supplies,Binders,397,-38,0.1,Customer 7
+2023-01-08,South,Office Supplies,Phones,741,61,0.2,Customer 8
+2023-01-09,Central,Furniture,Binders,322,-3,0.2,Customer 9
+2023-01-10,Central,Technology,Paper,334,80,0.4,Customer 10
+2023-01-11,East,Furniture,Chairs,773,108,0.3,Customer 11
+2023-01-12,East,Furniture,Binders,999,288,0.3,Customer 12
+2023-01-13,Central,Office Supplies,Paper,913,267,0.1,Customer 13
+2023-01-14,Central,Office Supplies,Binders,516,-89,0.2,Customer 14
+2023-01-15,Central,Furniture,Binders,816,159,0.1,Customer 15
+2023-01-16,South,Furniture,Paper,384,36,0.1,Customer 16
+2023-01-17,East,Technology,Tables,189,40,0.1,Customer 17
+2023-01-18,East,Furniture,Binders,504,-61,0.4,Customer 18
+2023-01-19,East,Furniture,Binders,822,109,0.3,Customer 19
+2023-01-20,South,Furniture,Tables,369,216,0.1,Customer 20
+2023-01-21,Central,Office Supplies,Accessories,867,252,0.2,Customer 21
+2023-01-22,Central,Furniture,Paper,454,140,0.2,Customer 22
+2023-01-23,East,Furniture,Paper,836,69,0.1,Customer 23
+2023-01-24,East,Office Supplies,Paper,124,-47,0.1,Customer 24
+2023-01-25,East,Furniture,Phones,640,112,0.4,Customer 25
+2023-01-26,East,Furniture,Phones,221,145,0.1,Customer 26
+2023-01-27,Central,Furniture,Binders,701,-57,0.4,Customer 27
+2023-01-28,West,Technology,Phones,574,287,0.3,Customer 28
+2023-01-29,West,Office Supplies,Phones,414,197,0.4,Customer 29
+2023-01-30,East,Office Supplies,Paper,657,233,0.3,Customer 30
+2023-01-31,East,Office Supplies,Accessories,860,143,0.3,Customer 31
+2023-02-01,West,Office Supplies,Chairs,945,50,0.1,Customer 32
+2023-02-02,Central,Office Supplies,Chairs,197,177,0.2,Customer 33
+2023-02-03,Central,Office Supplies,Binders,618,-77,0.4,Customer 34
+2023-02-04,East,Technology,Phones,507,-97,0.1,Customer 35
+2023-02-05,South,Furniture,Phones,311,-74,0.1,Customer 36
+2023-02-06,West,Furniture,Chairs,182,87,0.2,Customer 37
+2023-02-07,West,Office Supplies,Paper,794,43,0.4,Customer 38
+2023-02-08,Central,Office Supplies,Paper,209,-25,0.2,Customer 39
+2023-02-09,East,Technology,Binders,812,-61,0.4,Customer 40
+2023-02-10,West,Office Supplies,Phones,501,55,0.2,Customer 41
+2023-02-11,East,Technology,Binders,527,212,0.1,Customer 42
+2023-02-12,Central,Furniture,Phones,733,-79,0.1,Customer 43
+2023-02-13,Central,Office Supplies,Chairs,959,-19,0.1,Customer 44
+2023-02-14,East,Office Supplies,Binders,152,209,0.2,Customer 45
+2023-02-15,South,Technology,Paper,487,78,0.2,Customer 46
+2023-02-16,Central,Furniture,Paper,555,26,0.1,Customer 47
+2023-02-17,West,Technology,Binders,827,244,0.4,Customer 48
+2023-02-18,South,Office Supplies,Accessories,562,183,0.3,Customer 49
+2023-02-19,South,Office Supplies,Tables,710,76,0.3,Customer 50
+2023-02-20,East,Technology,Phones,268,217,0.2,Customer 51
+2023-02-21,West,Furniture,Chairs,116,-59,0.3,Customer 52
+2023-02-22,South,Furniture,Phones,307,292,0.3,Customer 53
+2023-02-23,South,Office Supplies,Phones,911,40,0.4,Customer 54
+2023-02-24,West,Technology,Accessories,488,132,0.2,Customer 55
+2023-02-25,South,Office Supplies,Tables,662,155,0.4,Customer 56
+2023-02-26,Central,Office Supplies,Paper,186,202,0.2,Customer 57
+2023-02-27,South,Technology,Binders,131,-17,0.2,Customer 58
+2023-02-28,East,Technology,Binders,541,120,0.3,Customer 59
+2023-03-01,South,Office Supplies,Paper,385,-15,0.4,Customer 60
+2023-03-02,West,Office Supplies,Phones,729,67,0.4,Customer 61
+2023-03-03,South,Office Supplies,Paper,164,-42,0.3,Customer 62
+2023-03-04,Central,Furniture,Binders,514,254,0.4,Customer 63
+2023-03-05,Central,Furniture,Paper,206,-43,0.1,Customer 64
+2023-03-06,East,Technology,Accessories,231,293,0.3,Customer 65
+2023-03-07,Central,Technology,Tables,913,-6,0.2,Customer 66
+2023-03-08,Central,Furniture,Accessories,538,-93,0.1,Customer 67
+2023-03-09,South,Technology,Chairs,815,133,0.4,Customer 68
+2023-03-10,West,Technology,Phones,414,-76,0.2,Customer 69
+2023-03-11,West,Technology,Chairs,408,70,0.2,Customer 70
+2023-03-12,West,Technology,Tables,194,37,0.2,Customer 71
+2023-03-13,South,Technology,Phones,142,-45,0.3,Customer 72
+2023-03-14,Central,Office Supplies,Phones,903,-25,0.4,Customer 73
+2023-03-15,South,Office Supplies,Phones,713,-12,0.2,Customer 74
+2023-03-16,East,Furniture,Paper,175,85,0.4,Customer 75
+2023-03-17,Central,Furniture,Tables,820,154,0.1,Customer 76
+2023-03-18,West,Office Supplies,Binders,724,79,0.1,Customer 77
+2023-03-19,South,Office Supplies,Accessories,652,20,0.1,Customer 78
+2023-03-20,South,Furniture,Binders,706,-32,0.4,Customer 79
+2023-03-21,East,Furniture,Phones,415,-81,0.4,Customer 80
+2023-03-22,Central,Furniture,Paper,822,264,0.3,Customer 81
+2023-03-23,Central,Technology,Binders,127,-83,0.1,Customer 82
+2023-03-24,Central,Furniture,Tables,291,-51,0.1,Customer 83
+2023-03-25,South,Furniture,Paper,491,265,0.3,Customer 84
+2023-03-26,Central,Technology,Accessories,570,-47,0.4,Customer 85
+2023-03-27,West,Office Supplies,Binders,146,-74,0.4,Customer 86
+2023-03-28,West,Technology,Chairs,749,-11,0.3,Customer 87
+2023-03-29,Central,Office Supplies,Binders,101,178,0.2,Customer 88
+2023-03-30,Central,Furniture,Binders,279,209,0.1,Customer 89
+2023-03-31,East,Office Supplies,Phones,701,80,0.4,Customer 90
+2023-04-01,South,Furniture,Accessories,472,142,0.3,Customer 91
+2023-04-02,West,Furniture,Paper,928,16,0.2,Customer 92
+2023-04-03,East,Technology,Paper,817,-71,0.2,Customer 93
+2023-04-04,West,Technology,Accessories,162,298,0.2,Customer 94
+2023-04-05,South,Office Supplies,Binders,441,-2,0.4,Customer 95
+2023-04-06,East,Technology,Chairs,477,281,0.2,Customer 96
+2023-04-07,West,Technology,Phones,141,81,0.2,Customer 97
+2023-04-08,East,Technology,Paper,149,178,0.4,Customer 98
+2023-04-09,Central,Furniture,Accessories,816,13,0.4,Customer 99
+2023-04-10,West,Technology,Tables,707,81,0.4,Customer 100
